@@ -1,1 +1,17 @@
 
+load_g,place,control_type,stabilization_time,status
+100,OA,PID,0.7,stable
+100,OA,AI,0.7,stable
+200,LAB,PID,1.1,stable
+200,LAB,AI,1.1,stable
+200,OA,PID,1.5,stable
+200,OA,AI,1.3,stable
+250,LAB,PID,2.0,stable
+250,LAB,AI,1.85,stable
+250,OA,PID,2.2,stable
+250,OA,AI,2.0,stable
+300,LAB,PID,3.4,stable
+300,LAB,AI,2.3,stable
+300,OA,AI,2.5,stable
+350,LAB,AI,3.4,stable
+350,OA,AI,3.5,stable
